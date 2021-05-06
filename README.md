@@ -1,6 +1,6 @@
 ### Hola 👋, _Soy *"Luis A. Castillo"*
 #### *_Desarrollador UI/UX*
-![*_Desarrollador UI/UX*](banner.png)
+![*_Web Developer & UI/UX Designer.*](banner.png)
 
 Profesional del desarrollo web buscando un puesto de tiempo completo en un campo donde pueda aplicar mis conocimientos técnicos y habilidades.
 
