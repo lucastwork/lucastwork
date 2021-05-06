@@ -1,6 +1,6 @@
 ### Hola 👋, _Soy *"Luis A. Castillo"*
 #### *_Desarrollador UI/UX*
-![*_Desarrollador UI/UX*](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![*_Desarrollador UI/UX*](banner.png)
 
 Profesional del desarrollo web buscando un puesto de tiempo completo en un campo donde pueda aplicar mis conocimientos técnicos y habilidades.
 
@@ -14,8 +14,7 @@ Habilidades: HTML / CSS / JS /  WORDPRESS / GIT / NPM
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/lucastwork)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/lucastwork/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg' alt='behance' height='40'>](https://www.behance.net/lucastwork)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/wordpress.svg' alt='wordpress' height='40'>](https://lpointlibre.wordpress.com/)  
 
-[![Top Langs](banner.png)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucastwork)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=lucastwork)  
-
 
